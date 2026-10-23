@@ -1,2 +1,2 @@
 # JDBC
-<img width="1097" height="400" alt="image" src="https://github.com/user-attachments/assets/3afb0088-a197-454b-9def-e9ad3110e7c9" />
+<img width="1060" height="530" alt="image" src="https://github.com/user-attachments/assets/146aeaca-603c-4fc3-a3b6-b9ea6161c7ed" />
